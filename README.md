@@ -19,4 +19,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukulkundu&show_icons=true&theme=dark&locale=en&layout=compact" alt="mukulkundu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukulkundu&theme=dark" alt="mukulkundu" /></p>
