@@ -1,6 +1,5 @@
-# Hi 👋, I'm Mukul Kundu
-
-### Crafting clean, efficient code for the modern web
+<h1 align="center">Hi 👋, I'm Mukul</h1>
+<h3 align="center">Crafting clean, efficient code for the modern web</h3>
 
 
 - 🔭 I'm currently working on **Building Scalable Softwares**
